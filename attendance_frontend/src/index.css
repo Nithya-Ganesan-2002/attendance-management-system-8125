@@ -1,3 +1,4 @@
+/* Base styles from React template, kept minimal to avoid conflicts with module-scoped Dashboard styles */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
